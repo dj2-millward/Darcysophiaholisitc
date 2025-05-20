@@ -24,14 +24,15 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "example@example.cl"
-  github: "https://github.com/a-chacon"
+  email: "example@example.cl"
+  # github: "https://github.com/a-chacon"
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
   # mastodon: "https://lile.cl/"
-  facebook: "https://discord.com/"
-  instagram: "https://discord.com/"
+  facebook: "https://www.facebook.com/people/Darcy-Sophia/100048199290796/"
+  facebook2: "https://www.facebook.com/people/Darcy-Sophia/100048199290796/"
+  instagram: "https://www.instagram.com/darcysophiaholistic
 
 ##
 # Plugins configuration
