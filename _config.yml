@@ -1,12 +1,12 @@
 title: DarcySophiaHolistic
-logo: /assets/images/logo.avif
-baseurl: /awesome-jekyll-theme
+logo: /assets/images/logo.png
+baseurl: /DarcySophiaHolistic
 
 ##
 # Typewritter configuration.
 # Feel free to disable if you don't like it.
 ##
-typewriter_effect: true
+#typewriter_effect: false
 
 ##
 # Collections configuration
@@ -30,8 +30,8 @@ contact_channels:
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
   # mastodon: "https://lile.cl/"
-  facebook:
-  Instagram:
+  facebook: "https://discord.com/"
+  instagram: "https://discord.com/"
 
 ##
 # Plugins configuration
@@ -47,7 +47,7 @@ plugins:
 languages: ["en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: true
+parallel_localization: false
 
 ##
 # Archives configuration

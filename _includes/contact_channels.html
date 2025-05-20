@@ -47,29 +47,29 @@
       alt="StackOverflow Icon"
     />
   </a>
-  {% endif %} {% if contact_channels.discord %}
+  {% endif %} {% if contact_channels.facebook %}
   <a
     class="transition hover:scale-110 duration-300"
-    href="{{ contact_channels.discord }}"
+    href="{{ contact_channels.facebook }}"
     target="_blank"
   >
     <img
       class="h-6 w-6"
-      src="{{'/assets/images/contact_channels/discord.svg' | relative_url }}"
-      alt="Discord Icon"
+      src="{{'/assets/images/contact_channels/facebook.svg' | relative_url }}"
+      alt="Facebook Icon"
     />
   </a>
-  {% endif %} {% if contact_channels.mastodon %}
+  {% endif %} {% if contact_channels.instagram %}
   <a
     class="transition hover:scale-110 duration-300"
     rel="me"
-    href="{{ contact_channels.mastodon }}"
+    href="{{ contact_channels.instagram }}"
     target="_blank"
   >
     <img
       class="h-6 w-6"
-      src="{{'/assets/images/contact_channels/mastodon.svg' | relative_url }}"
-      alt="Mastodon Icon"
+      src="{{'/assets/images/contact_channels/instagram.svg' | relative_url }}"
+      alt="instagram Icon"
     />
   </a>
   {% endif %}
