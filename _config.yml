@@ -1,6 +1,6 @@
 title: DarcySophiaHolistic
 logo: /assets/images/logo.png
-baseurl: /DarcySophiaHolistic
+# baseurl: /DarcySophiaHolistic
 
 ##
 # Typewritter configuration.
@@ -48,7 +48,7 @@ plugins:
 languages: ["en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: false
+parallel_localization: true
 
 ##
 # Archives configuration
