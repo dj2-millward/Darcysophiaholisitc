@@ -1,15 +1,15 @@
---- 
---- 
+---
+---
 
 @font-face {
   font-family: "Mulish";
-  src: url({{ "/assets/fonts/Mulish-Regular.ttf" | relative_url }});
+  src: url({{"/assets/fonts/EFCO BROOKSHIRE REGULAR.TTF"|relative_url}});
   font-display: swap;
 }
 
 @font-face {
   font-family: "Raleway";
-  src: url({{ "/assets/fonts/Raleway-Regular.ttf" | relative_url }});
+  src: url({{"/assets/fonts/Raleway-Regular.ttf"|relative_url}});
   font-display: swap;
 }
 
