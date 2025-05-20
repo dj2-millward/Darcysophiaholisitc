@@ -1,4 +1,4 @@
-title: AwesomeJT
+title: DarcySophiaHolistic
 logo: /assets/images/logo.avif
 baseurl: /awesome-jekyll-theme
 
@@ -12,8 +12,8 @@ typewriter_effect: true
 # Collections configuration
 ##
 collections:
-  projects:
-    output: true
+  ##projects:
+  ##  output: true
 
 ##
 # Contact Channels configuration
@@ -30,6 +30,8 @@ contact_channels:
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
   # mastodon: "https://lile.cl/"
+  facebook:
+  Instagram:
 
 ##
 # Plugins configuration
