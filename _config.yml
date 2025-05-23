@@ -1,6 +1,6 @@
 title: DarcySophiaHolistic
 logo: /assets/images/logo.png
-# baseurl: /DarcySophiaHolistic
+baseurl: /DarcySophiaHolistic
 
 ##
 # Typewritter configuration.
@@ -32,7 +32,7 @@ contact_channels:
   # mastodon: "https://lile.cl/"
   facebook: "https://www.facebook.com/people/Darcy-Sophia/100048199290796/"
   facebook2: "https://www.facebook.com/people/Darcy-Sophia/100048199290796/"
-  instagram: "https://www.instagram.com/darcysophiaholistic
+  instagram: "https://www.instagram.com/darcysophiaholistic"
 
 ##
 # Plugins configuration
@@ -48,7 +48,7 @@ plugins:
 languages: ["en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: true
+parallel_localization: false
 
 ##
 # Archives configuration

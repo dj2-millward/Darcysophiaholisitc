@@ -18,7 +18,9 @@ footer: true
 permalink: /
 ---
 
-## Discover the healing benefits of sound with me Darcy Sophia. What I Do...
+## Discover the healing benefits of sound with me Darcy Sophia.
+
+## What I Do...
 
 I offer immersive wellness sessions designed to bring balance, relaxation, and a deeper connection to self.
 
