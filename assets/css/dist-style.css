@@ -1024,6 +1024,9 @@ video {
 .w-6 {
   width: 2.5rem;
 }
+.w-diff {
+  width: 5rem;
+}
 .w-auto {
   width: auto;
 }
