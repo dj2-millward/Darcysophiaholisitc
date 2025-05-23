@@ -1,6 +1,7 @@
 title: DarcySophiaHolistic
 logo: /assets/images/logo.png
-baseurl: /DarcySophiaHolistic
+url: "https://www.darcysophia.co.uk"
+baseurl: ""
 
 ##
 # Typewritter configuration.
