@@ -31,9 +31,9 @@ contact_channels:
   # stackoverflow: ""
   # discord: ""
   # mastodon: ""
-  facebook: "https://www.facebook.com/people/Darcy-Sophia/100048199290796/"
-  facebook2: "https://www.facebook.com/people/Darcy-Sophia/100063768474327/"
-  instagram: "https://www.instagram.com/darcysophiaholistic"
+  facebook: "https://www.facebook.com/people/Darcy-Sophia/100048199290796/ target="_blank""
+  facebook2: "https://www.facebook.com/people/Darcy-Sophia/100063768474327/ target="_blank""
+  instagram: "https://www.instagram.com/darcysophiaholistic target="_blank""
 
 ##
 # Plugins configuration
