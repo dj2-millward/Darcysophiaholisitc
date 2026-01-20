@@ -992,7 +992,7 @@ video {
   height: 15rem;
 }
 .h-8 {
-  height: 3rem;
+  height: 2.5rem;
 }
 .h-80 {
   height: 20rem;
@@ -1262,11 +1262,13 @@ video {
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
-  padding: 20px;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 .text-lg {
   font-size: 2.0rem;
   line-height: 2.5rem;
+  padding-bottom: 2rem;
 }
 .text-sm {
   font-size: 0.875rem;
